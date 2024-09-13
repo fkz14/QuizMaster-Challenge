@@ -1,0 +1,314 @@
+# depslib dependency file v1.0
+1696744015 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696731299 source:c:\users\vase computacion\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1696744476 c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones\menu.h
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696744476 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696744535 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+
+1696744476 c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones\juego.h
+	"MENU.h"
+	"JUGADORES.h"
+
+1696744476 c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones\jugadores.h
+	"MENU.h"
+	"JUEGO.h"
+
+1696744476 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696744535 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones - copia (2)\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+
+1696744476 c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones - copia (2)\menu.h
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696744476 c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones - copia (2)\juego.h
+	"MENU.h"
+	"JUGADORES.h"
+
+1696744476 c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones - copia (2)\jugadores.h
+	"MENU.h"
+	"JUEGO.h"
+
+1696744476 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones - copia (2)\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696744015 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones - copia (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696744476 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\prueba de funciones - copia (2)\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696744535 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\tpfinalaguirrediego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+
+1696744476 c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\tpfinalaguirrediego\menu.h
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696744476 c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\tpfinalaguirrediego\juego.h
+	"MENU.h"
+	"JUGADORES.h"
+
+1696744476 c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\tpfinalaguirrediego\jugadores.h
+	"MENU.h"
+	"JUEGO.h"
+
+1696744476 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\tpfinalaguirrediego\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696744476 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\tpfinalaguirrediego\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696745087 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tp final\prueba de funciones\tpfinalaguirrediego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696841018 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tpfinalaguirrediego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+
+1696744476 c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tpfinalaguirrediego\menu.h
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696841018 c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tpfinalaguirrediego\juego.h
+	"MENU.h"
+	"JUGADORES.h"
+
+1696841018 c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tpfinalaguirrediego\jugadores.h
+	"MENU.h"
+	"JUEGO.h"
+
+1696841018 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tpfinalaguirrediego\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696842085 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tpfinalaguirrediego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696845646 source:c:\users\nano\onedrive - instituto tecnológico beltrán\programacion de computadoras 2023\2º segundo cuatrimestre 2023\tpfinalaguirrediego\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696887312 source:c:\users\alejo\desktop\1\tpfinalaguirrediego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+
+1696744476 c:\users\alejo\desktop\1\tpfinalaguirrediego\menu.h
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696841018 c:\users\alejo\desktop\1\tpfinalaguirrediego\juego.h
+	"MENU.h"
+	"JUGADORES.h"
+
+1696841018 c:\users\alejo\desktop\1\tpfinalaguirrediego\jugadores.h
+	"MENU.h"
+	"JUEGO.h"
+
+1696841018 source:c:\users\alejo\desktop\1\tpfinalaguirrediego\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696842085 source:c:\users\alejo\desktop\1\tpfinalaguirrediego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696845646 source:c:\users\alejo\desktop\1\tpfinalaguirrediego\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696887312 source:c:\users\alejo\desktop\1\proyecto en c (pyr)\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+
+1696744476 c:\users\alejo\desktop\1\proyecto en c (pyr)\menu.h
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696841018 c:\users\alejo\desktop\1\proyecto en c (pyr)\juego.h
+	"MENU.h"
+	"JUGADORES.h"
+
+1696841018 c:\users\alejo\desktop\1\proyecto en c (pyr)\jugadores.h
+	"MENU.h"
+	"JUEGO.h"
+
+1696841018 source:c:\users\alejo\desktop\1\proyecto en c (pyr)\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1696842085 source:c:\users\alejo\desktop\1\proyecto en c (pyr)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
+1726243214 source:c:\users\alejo\desktop\1\proyecto en c (pyr)\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"MENU.h"
+	"JUEGO.h"
+	"JUGADORES.h"
+
